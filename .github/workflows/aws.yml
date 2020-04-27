@@ -27,15 +27,15 @@ on:
   release:
     types: [created]
 
-name: Deploy to Amazon ECS
+name: Lorraine Williams
 
 jobs:
   deploy:
-    name: Deploy
+    name: Lorraine Williams
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout
+    - name: Lorraine Williams 
       uses: actions/checkout@v2
 
     - name: Configure AWS credentials
